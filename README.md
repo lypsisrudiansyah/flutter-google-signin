@@ -23,8 +23,7 @@
     SHA1: 76:****disensor****:AA
     SHA-256: 76:****disensor****:AA
     Valid until: Monday, December 13, 2025
-  ```
-    copy key SHA1 nya pastekan pada kolom Debug Sign In Certificate SHA-1 Pada Pendaftaran Android App Ke Project Firebase tadi
+  ``` copy key SHA1 nya pastekan pada kolom Debug Sign In Certificate SHA-1 Pada Pendaftaran Android App Ke Project Firebase tadi
     *dan jangan lupa download file google-services.json* kemudian pindahkan file google-services.json kedalam direktori *"android/app"*
 
   5. Aktifkan Sign In dan Sign Up Method With Google Pada Menu Authentication Di Project Firebase Anda
