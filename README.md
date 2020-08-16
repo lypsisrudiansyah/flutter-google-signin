@@ -1,6 +1,6 @@
 # Flutter Google Sign In Example
 
-<p><img  src="https://i.ibb.co/59cLNmp/cover.png"/></p>
+<p><img  src="https://imgur.com/lIqT8d5"/></p>
 
 ### Apps Feature:
 
