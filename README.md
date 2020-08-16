@@ -24,8 +24,8 @@
     SHA-256: 76:****disensor****:AA
     Valid until: Monday, December 13, 2025
   ```
-  copy key SHA1 nya pastekan pada kolom Debug Sign In Certificate SHA-1 Pada Pendaftaran Android App Ke Project Firebase tadi
-    *dan jangan lupa download file google-services.json* kemudian pindahkan file google-services.json kedalam direktori *"android/app"*
+            copy key SHA1 nya pastekan pada kolom Debug Sign In Certificate SHA-1 Pada Pendaftaran Android App Ke Project Firebase tadi
+            *dan jangan lupa download file google-services.json* kemudian pindahkan file google-services.json kedalam direktori *"android/app"*
 
   5. Aktifkan Sign In dan Sign Up Method With Google Pada Menu Authentication Di Project Firebase Anda
   6. Lalu Mengaktifkan Credential OAuth Consent Screen Ikuti Cara Yang Ada Pada Link Spesifik Paragraf ini <a href="https://medium.com/flutter-community/flutter-implementing-google-sign-in-71888bca24ed#fe91">Menuju ke paragraf sebuah Thread</a>
