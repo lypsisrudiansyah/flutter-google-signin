@@ -2,7 +2,7 @@
 
 <p><img  src="https://i.imgur.com/lIqT8d5.png"/></p>
 
-### Apps Feature:
+### Apps Feature(Android):
 
 - Authentication(Login) With Google
 
