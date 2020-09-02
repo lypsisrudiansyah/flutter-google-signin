@@ -10,7 +10,7 @@ String name;
 String email;
 String imageUrl;
 String phoneNumber;
-
+ 
 /// Sign In Method With Google
 Future<String> signInWithGoogle() async {
   
